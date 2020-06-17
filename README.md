@@ -28,17 +28,7 @@ Abrir el proyecto clonado en `Android Studio`
 La estructura del proyecto es  Layout `activity_main.xml` vacío.
 
 - MainActivity --> Menu principal
-- PokemonDetailsActivity --> Activity con detalles del pokemón seleccionado
-- PokemonListActivity --> Activity con la lista de pokemón (favoritos)
-- PokemonRecyclerActivity --> Acitvity con la lista de pokemón (grid layout).
-
-La carpeta de `res/drawables` contiene las imágenes (Pokemons y Componentes) que serán usadas en el codelab:
-
-- ash_ketchum.png
-- bulbasaur.png
-- butterfree.png
-- charmander.png
-- ekans.png
+- PokemonDetailsActivity --> Activity con detalles del pokemón seleccionadow
 - icon_hamburger.xml
 - pidgey.png
 - pikachu.png
